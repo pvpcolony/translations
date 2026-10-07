@@ -3,5 +3,6 @@
   "common-platform.welcome.test": "Wilkommen auf dem Server, %s",
   "lobby.item.navigator.name": "Spielauswahl",
   "lobby.item.profile.name": "Dein Profil",
-  "lobby.item.settings.name": "Einstellungen"
+  "lobby.item.settings.name": "Einstellungen",
+  "lobby.command.language.changed": "§aDeine Sprache wurde zu %s geändert."
 }
