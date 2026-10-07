@@ -1,5 +1,6 @@
 {
   "common-platform.chat.no-permission": "§cDafür hast du keine Berechtigung!",
+  "common-platform.chat.cooldown": "§cBitte warte einen Moment, bevor du das erneut tust.",
   "common-platform.welcome.test": "Wilkommen auf dem Server, %s",
   "lobby.item.navigator.name": "Spielauswahl",
   "lobby.item.profile.name": "Dein Profil",
