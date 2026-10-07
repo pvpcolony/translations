@@ -4,7 +4,7 @@
   "lobby.item.navigator.name": "Spielauswahl",
   "lobby.item.profile.name": "Dein Profil",
   "lobby.item.settings.name": "Einstellungen",
-  "lobby.command.language.changed": "§aDeine Sprache wurde zu §7%s §ageändert."
+  "lobby.command.language.changed": "§aDeine Sprache wurde zu §7%s §ageändert.",
   "lobby.scoreboard.line.1": "Rang",
   "lobby.scoreboard.line.2": "Coins",
   "lobby.scoreboard.line.3": "Spielzeit",
