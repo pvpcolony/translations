@@ -4,5 +4,5 @@
   "lobby.item.navigator.name": "Spielauswahl",
   "lobby.item.profile.name": "Dein Profil",
   "lobby.item.settings.name": "Einstellungen",
-  "lobby.command.language.changed": "§aDeine Sprache wurde zu %s geändert."
+  "lobby.command.language.changed": "§aDeine Sprache wurde zu §7%s §ageändert."
 }
