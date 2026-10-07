@@ -1,7 +1,7 @@
 {
-  "common-platform.chat.no-permission": "§fYou don't have the permission to do this.",
-  "common-platform.welcome.test": "§7Welcome on the server, %s",
-  "common-platform.location.set": "§7The location §a%s §7was set on §a%s",
-  "common-platform.location.delete": "§cThe location %s was successfully deleted",
-  "common-platform.location.list": "§7Following locations are set: §a%s"
+  "common-platform.chat.no-permission": "You don't have the permission to do this.",
+  "common-platform.welcome.test": "Welcome on the server, %s",
+  "common-platform.location.set": "The location %s was set on %s",
+  "common-platform.location.delete": "The location %s was successfully deleted",
+  "common-platform.location.list": "Following locations are set: %s"
 }
