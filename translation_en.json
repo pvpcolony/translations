@@ -6,7 +6,8 @@
   "lobby.item.settings.name": "Your settings",
   "lobby.command.language.changed": "§aYour language was changed to §7%s",
   "lobby.scoreboard.line.1": "Rank",
-  "lobby.scoreboard.line.2": "Coins",
-  "lobby.scoreboard.line.3": "Playtime",
-  "lobby.scoreboard.line.4": "Discord"
+  "lobby.scoreboard.line.2": "Playtime",
+  "lobby.scoreboard.line.3": "Coins",
+  "lobby.scoreboard.line.4": "All",
+  "lobby.scoreboard.line.5": "Playing"
 }
