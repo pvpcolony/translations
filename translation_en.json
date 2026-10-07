@@ -4,5 +4,5 @@
   "lobby.item.navigator.name": "Select game mode",
   "lobby.item.profile.name": "Your profile",
   "lobby.item.settings.name": "Your settings",
-  "lobby.command.language.changed": "Your language was changed to %s"
+  "lobby.command.language.changed": "§aYour language was changed to §7%s"
 }
