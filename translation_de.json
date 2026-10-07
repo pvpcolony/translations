@@ -6,7 +6,7 @@
   "lobby.item.settings.name": "Einstellungen",
   "lobby.command.language.changed": "§aDeine Sprache wurde zu §7%s §ageändert."
   "lobby.scoreboard.line.1": "Rang",
-  "lobby.scoreboard.line.1": "Coins",
-  "lobby.scoreboard.line.1": "Spielzeit",
-  "lobby.scoreboard.line.1": "Discord",
+  "lobby.scoreboard.line.2": "Coins",
+  "lobby.scoreboard.line.3": "Spielzeit",
+  "lobby.scoreboard.line.4": "Discord"
 }
