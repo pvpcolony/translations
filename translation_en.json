@@ -1,4 +1,4 @@
 {
-  "common-platform.chat.no-permission": "You don't have the permission to do this.",
+  "common-platform.chat.no-permission": "§cYou don't have the permission to do this.",
   "common-platform.welcome.test": "Welcome on the server, %s"
 }
