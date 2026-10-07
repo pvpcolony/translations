@@ -1,3 +1,7 @@
 {
-  "common-platform.welcome.test": "Willkommen auf dem Server, %s"
+  "common-platform.chat.no-permission": "§cDafür hast du keine Berechtigung!",
+  "common-platform.welcome.test": "Wilkommen auf dem Server, %s";
+  "lobby.item.navigator.name": "Spielauswahl",
+  "lobby.item.profile.name": "Dein Profil",
+  "lobby.item.settings.name": "Einstellungen"
 }
