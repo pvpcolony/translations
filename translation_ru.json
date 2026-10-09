@@ -2,6 +2,8 @@
   "common-platform.chat.no-permission": "§cУ вас нет прав для этого.",
   "common-platform.chat.cooldown": "§cПожалуйста, подождите немного.",
   "common-platform.welcome.test": "Добро пожаловать на сервер, %s",
+  "spigot-platform.tablist.header": "§cСеть PvPColony.club", 
+  "spigot-platform.tablist.second": "§7Вы играете на §c%s",
   "lobby.item.navigator.name": "Выбрать режим игры",
   "lobby.item.profile.name": "Ваш профиль",
   "lobby.item.settings.name": "Ваши настройки",
