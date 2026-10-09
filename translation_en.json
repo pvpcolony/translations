@@ -2,6 +2,8 @@
   "common-platform.chat.no-permission": "§cYou don't have the permission to do this.",
   "common-platform.chat.cooldown": "§cPlease wait a moment before doing this again.",
   "common-platform.welcome.test": "Welcome on the server, %s",
+  "spigot-platform.tablist.header": "§cPvPColony.club Network",
+  "spigot-platform.tablist.second": "§7You are playing on §c%s",
   "lobby.item.navigator.name": "Select game mode",
   "lobby.item.profile.name": "Your profile",
   "lobby.item.settings.name": "Your settings",
