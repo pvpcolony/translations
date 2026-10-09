@@ -29,5 +29,5 @@
   "lobby.menu.navigator.item.jumpleague.name": "§bJump League",
   "lobby.menu.navigator.item.jumpleague.lore.1": "§fAktuelle Spieler im Spiel: §b%s",
   "lobby.menu.navigator.item.jumpleague.lore.2": "§a<Linksklicke, um ein Spiel auszuwählen>",
-  "lobby.menu.navigator.item.jumpleague.lore.3": "§a<Rechtsklicke um schnell beizutreten>",
+  "lobby.menu.navigator.item.jumpleague.lore.3": "§a<Rechtsklicke, um schnell beizutreten>",
 }
