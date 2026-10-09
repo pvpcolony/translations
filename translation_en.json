@@ -14,5 +14,12 @@
   "lobby.scoreboard.line.2": "Playtime",
   "lobby.scoreboard.line.3": "Coins",
   "lobby.scoreboard.line.4": "All",
-  "lobby.menu.language.lore.1": "§a<Leftclick to change language>"
+  "lobby.menu.language.lore.1": "§a<Leftclick to change language>",
+  "lobby.menu.rewards.daily-reward.name": "§eDaily Reward",
+  "lobby.menu.rewards.daily-reward.lore.1": "§7Claim your daily rewards",
+  "lobby.menu.rewards.daily-reward.lore.2": "§a+§e200 Coins",
+  "lobby.menu.rewards.daily-reward.lore.3": "§a+§b30 Exp",
+  "lobby.menu.rewards.daily-reward.lore.4": "§a<Leftclick to take rewards>",
+  "lobby.menu.rewards.daily-reward.unavailable": "§cYou already claimed your daily rewards!",
+  "lobby.menu.rewards.daily-reward.time-remaining": "§cAvailable in %s",
 }
