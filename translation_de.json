@@ -22,7 +22,7 @@
   "lobby.menu.rewards.daily-reward.lore.4": "§a<Linksklicke, zum abholen der Belohnungen>",
   "lobby.menu.rewards.daily-reward.unavailable": "§cDu hast deine tägliche Belohnung bereits abgeholt!",
   "lobby.menu.rewards.daily-reward.taken": "§aDu hast deine tägliche Belohnung eingefordert!",
-  "lobby.menu.rewards.daily-reward.time-remaining": "§cAbholbereit in %s",
+  "lobby.menu.rewards.daily-reward.time-remaining": "§cWieder abholbereit in %s",
   "lobby.menu.navigator.item.spawn.name": "§eSpawnpunkt",
   "lobby.menu.navigator.item.spawn.teleport": "§aDu wurdest zum Spawnpunkt teleportiert.",
   "lobby.menu.navigator.item.spawn.lore.1": "§fSpieler: §e%s",
