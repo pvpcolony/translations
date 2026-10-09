@@ -23,4 +23,10 @@
   "lobby.menu.rewards.daily-reward.unavailable": "§cYou already claimed your daily rewards!",
   "lobby.menu.rewards.daily-reward.taken": "§aYou have claimed your daily rewards!",
   "lobby.menu.rewards.daily-reward.time-remaining": "§cAvailable in %s",
+  "lobby.menu.navigator.item.spawn.name": "Spawnpoint",
+  "lobby.menu.navigator.item.lore.teleport": "§a<Click to teleport>",
+  "lobby.menu.navigator.item.jumpleague.name": "§bJump League",
+  "lobby.menu.navigator.item.jumpleague.lore.1": "§fCurrently playing: §b%s",
+  "lobby.menu.navigator.item.jumpleague.lore.2": "§a<Leftclick to select game>",
+  "lobby.menu.navigator.item.jumpleague.lore.3": "§a<Rightclick to quick join>",
 }
