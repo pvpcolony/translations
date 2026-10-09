@@ -14,5 +14,12 @@
   "lobby.scoreboard.line.2": "Spielzeit",
   "lobby.scoreboard.line.3": "Coins",
   "lobby.scoreboard.line.4": "Alle",
-  "lobby.menu.language.lore.1": "§a<Linksklicke, um die Sprache zu ändern>"
+  "lobby.menu.language.lore.1": "§a<Linksklicke, um die Sprache zu ändern>",
+  "lobby.menu.rewards.daily-reward.name": "§eTägliche Belohnung",
+  "lobby.menu.rewards.daily-reward.lore.1": "§7Beanspruche deine tägliche Belohnung",
+  "lobby.menu.rewards.daily-reward.lore.2": "§f[ §a+ §e200 Coins §f]",
+  "lobby.menu.rewards.daily-reward.lore.3": "§f[ §a+ §b50 XP-Punkte §f]",
+  "lobby.menu.rewards.daily-reward.lore.4": "§a<Linksklicke, zum abholen der Belohnungen>",
+  "lobby.menu.rewards.daily-reward.unavailable": "§cDu hast deine tägliche Belohnung bereits abgeholt!",
+  "lobby.menu.rewards.daily-reward.time-remaining": "§cAbholbereit in %s",
 }
