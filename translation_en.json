@@ -21,5 +21,6 @@
   "lobby.menu.rewards.daily-reward.lore.3": "§f[ §a+ §b50 XP-Points §f]",
   "lobby.menu.rewards.daily-reward.lore.4": "§a<Leftclick to take rewards>",
   "lobby.menu.rewards.daily-reward.unavailable": "§cYou already claimed your daily rewards!",
+  "lobby.menu.rewards.daily-reward.taken": "§aYou have claimed your daily rewards!",
   "lobby.menu.rewards.daily-reward.time-remaining": "§cAvailable in %s",
 }
