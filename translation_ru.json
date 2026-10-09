@@ -7,9 +7,12 @@
   "lobby.item.navigator.name": "Выбрать режим игры",
   "lobby.item.profile.name": "Ваш профиль",
   "lobby.item.settings.name": "Ваши настройки",
+  "lobby.item.language.name": "Язык",
+  "lobby.item.interaction": "Нажмите ПКМ",
   "lobby.command.language.changed": "§aВаш язык изменён на §7%s",
   "lobby.scoreboard.line.1": "Ранг",
-  "lobby.scoreboard.line.2": "Время игры",
+  "lobby.scoreboard.line.2": "Время в игре",
   "lobby.scoreboard.line.3": "Монеты",
-  "lobby.scoreboard.line.4": "Все"
+  "lobby.scoreboard.line.4": "Всего",
+  "lobby.menu.language.lore.1": "§aНажмите ЛКМ, чтобы сменить язык"
 }
