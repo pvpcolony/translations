@@ -22,7 +22,7 @@
   "lobby.menu.rewards.daily-reward.lore.4": "§a<Leftclick to take rewards>",
   "lobby.menu.rewards.daily-reward.unavailable": "§cYou already claimed your daily rewards!",
   "lobby.menu.rewards.daily-reward.taken": "§aYou have claimed your daily rewards!",
-  "lobby.menu.rewards.daily-reward.time-remaining": "§cAvailable in %s",
+  "lobby.menu.rewards.daily-reward.time-remaining": "§cAvailable again in %s",
   "lobby.menu.navigator.item.spawn.name": "§eSpawnpoint",
   "lobby.menu.navigator.item.spawn.lore.1": "§fPlayers here: §e%s",
   "lobby.menu.navigator.item.spawn.teleport": "§aYou were teleported to the spawnpoint.",
