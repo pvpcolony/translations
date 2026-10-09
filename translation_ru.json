@@ -3,7 +3,7 @@
   "common-platform.chat.cooldown": "§cПожалуйста, подождите немного.",
   "common-platform.welcome.test": "Добро пожаловать на сервер, %s",
   "spigot-platform.tablist.header": "§c§lPVPCOLONY CLUB",
-  "spigot-platform.tablist.second": "§fСеть для соревнований"
+  "spigot-platform.tablist.second": "§fСеть для соревнований",
   "lobby.item.navigator.name": "Выбрать режим игры",
   "lobby.item.profile.name": "Ваш профиль",
   "lobby.item.settings.name": "Ваши настройки",
