@@ -21,5 +21,6 @@
   "lobby.menu.rewards.daily-reward.lore.3": "§f[ §a+ §b50 XP-Punkte §f]",
   "lobby.menu.rewards.daily-reward.lore.4": "§a<Linksklicke, zum abholen der Belohnungen>",
   "lobby.menu.rewards.daily-reward.unavailable": "§cDu hast deine tägliche Belohnung bereits abgeholt!",
+  "lobby.menu.rewards.daily-reward.taken": "§aDu hast deine tägliche Belohnung eingefordert!",
   "lobby.menu.rewards.daily-reward.time-remaining": "§cAbholbereit in %s",
 }
