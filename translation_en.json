@@ -1,6 +1,7 @@
 {
   "common-platform.chat.no-permission": "§cYou don't have the permission to do this.",
   "common-platform.chat.cooldown": "§cPlease wait a moment before doing this again.",
+  "common-platform.chat.player.offline": "§cThis player could not be found!",
   "common-platform.welcome.test": "Welcome on the server, %s",
   "spigot-platform.tablist.header": "§c§lPVPCOLONY CLUB",
   "spigot-platform.tablist.second": "§fThe Competitive Network",
