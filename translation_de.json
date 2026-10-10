@@ -32,4 +32,6 @@
   "lobby.menu.navigator.item.jumpleague.lore.1": "§fAktuelle Spieler im Spiel: §b%s",
   "lobby.menu.navigator.item.jumpleague.lore.2": "§eLinksklicke §8▪ §7Spiel auswählen",
   "lobby.menu.navigator.item.jumpleague.lore.3": "§eRechtsklicke §8▪ §7Schnell beitreten",
+  "proxy.command.ping.yours": "§7Dein aktueller ping ist: §a%s ms",
+  "proxy.command.ping.other": "§a%s §7aktueller ping ist: §a%s ms",
 }
