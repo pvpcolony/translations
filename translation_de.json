@@ -1,6 +1,7 @@
 {
   "common-platform.chat.no-permission": "§cDafür hast du keine Berechtigung!",
   "common-platform.chat.cooldown": "§cBitte warte einen Moment, bevor du das erneut tust.",
+  "common-platform.chat.player.offline": "§cDieser Spieler wurde nicht gefunden!",
   "common-platform.welcome.test": "Wilkommen auf dem Server, %s",
   "spigot-platform.tablist.header": "§c§lPVPCOLONY CLUB",
   "spigot-platform.tablist.second": "§fDas Kompetetive Netzwerk",
