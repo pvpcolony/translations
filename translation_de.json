@@ -15,6 +15,7 @@
   "game-platform.player.left": "§c%s §7hat das Spiel §cverlassen.",
   "game-platform.player.quit": "§c%s ist §causgeschieden.",
   "game-platform.player.won": "§a%s hat das Spiel §cgewonnen!",
+  "game-platform.lobby.item.quit.name": "Zurück zur Lobby",
   "lobby.item.navigator.name": "Spielauswahl",
   "lobby.item.profile.name": "Dein Profil",
   "lobby.item.settings.name": "Einstellungen",
