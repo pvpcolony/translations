@@ -43,6 +43,9 @@
   "lobby.menu.navigator.item.jumpleague.lore.1": "§fCurrently playing: §b%s",
   "lobby.menu.navigator.item.jumpleague.lore.2": "§eLeftclick §8▪ §7Select game",
   "lobby.menu.navigator.item.jumpleague.lore.3": "§eRightclick §8▪ §7Quick Join",
+  "jumpleague.scoreboard.line.1": "%s more players needed",
+  "jumpleague.scoreboard.line.2": "Map",
+  "jumpleague.level.checkpoint": "§aCheckpoint",
   "proxy.command.ping.yours": "§7Your current ping is: §a%s ms",
   "proxy.command.ping.other": "§a%s §7current ping is: §a%s ms",
 }
