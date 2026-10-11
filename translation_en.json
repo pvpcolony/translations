@@ -46,6 +46,7 @@
   "jumpleague.scoreboard.line.1": "%s more players needed",
   "jumpleague.scoreboard.line.2": "Map",
   "jumpleague.level.checkpoint": "§aCheckpoint",
+  "jumpleague.countdown.go": "§aGo!",
   "proxy.command.ping.yours": "§7Your current ping is: §a%s ms",
   "proxy.command.ping.other": "§a%s §7current ping is: §a%s ms",
 }
