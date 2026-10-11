@@ -51,6 +51,7 @@
   "jumpleague.deathmatch.countdown-seconds": "§7The §cdeathmatch §7begins in §c%s §7seconds!",
   "jumpleague.deathmatch.begin": "§aThe deathmatch starts now! The last one standing wins!",
   "jumpleague.level.checkpoint": "§aCheckpoint",
+  "jumpleague.match.end": "§7Deathmatch begins in §c%s",
   "jumpleague.countdown.go": "§aGo!",
   "proxy.command.ping.yours": "§7Your current ping is: §a%s ms",
   "proxy.command.ping.other": "§a%s §7current ping is: §a%s ms",
