@@ -45,6 +45,8 @@
   "lobby.menu.navigator.item.jumpleague.lore.3": "§eRechtsklicke §8▪ §7Schnell beitreten",
   "jumpleague.scoreboard.line.1": "%s weitere Spieler...",
   "jumpleague.level.checkpoint": "§aCheckpoint",
+  "jumpleague.level.finisher": "§a%s §7hat das §aZiel §7erreicht!",
+  "jumpleague.level.finisher.countdown": "§aAndere Spieler §7haben nun noch §a%s §7Minuten Zeit bis zum Deathmatch!",
   "jumpleague.countdown.go": "§aLos!",
   "proxy.command.ping.yours": "§7Dein aktueller ping ist: §a%s ms",
   "proxy.command.ping.other": "§a%s §7aktueller ping ist: §a%s ms",
