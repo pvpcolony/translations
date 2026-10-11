@@ -37,7 +37,7 @@
   "lobby.menu.rewards.daily-reward.time-remaining": "§cAvailable again in %s",
   "lobby.menu.navigator.item.spawn.name": "§eSpawnpoint",
   "lobby.menu.navigator.item.spawn.lore.1": "§fPlayers here: §e%s",
-  "lobby.menu.navigator.item.spawn.teleport": "§aYou were teleported to the spawnpoint.",
+  "lobby.menu.navigator.item.spawn.teleport": "§aYou have been teleported to the spawn point.",
   "lobby.menu.navigator.item.lore.teleport": "§eLeftlick §8▪ §7Teleport there",
   "lobby.menu.navigator.item.jumpleague.name": "§bJump League",
   "lobby.menu.navigator.item.jumpleague.lore.1": "§fCurrently playing: §b%s",
