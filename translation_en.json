@@ -6,6 +6,7 @@
   "spigot-platform.tablist.header": "§c§lPVPCOLONY CLUB",
   "spigot-platform.tablist.second": "§fThe Competitive Network",
   "game-platform.waiting-for-players": "§7Atleast §c%s §7players are required to start the game...",
+  "game-platform.force.start": "§aThe game has been forced to start.",
   "game-platform.starting": "§7The game begins in §a%s §7seconds!",
   "game-platform.started": "§aThe game begins now!",
   "game-platform.auto-ending": "§7The game ends in §c%s §7minutes!",
