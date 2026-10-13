@@ -45,6 +45,8 @@
   "lobby.menu.navigator.item.jumpleague.lore.1": "§fAktuelle Spieler im Spiel: §b%s",
   "lobby.menu.navigator.item.jumpleague.lore.2": "§eLinksklicke §8▪ §7Spiel auswählen",
   "lobby.menu.navigator.item.jumpleague.lore.3": "§eRechtsklicke §8▪ §7Schnell beitreten",
+  "lobby.menu.services.service.in-game": "§cIm Spiel",
+  "lobby.menu.services.service.waiting": "§cWarte auf weitere Spieler",
   "jumpleague.scoreboard.line.1": "%s weitere Spieler...",
   "jumpleague.scoreboard.line.1.ready": "%s Spieler bereit",
   "jumpleague.level.checkpoint": "§aCheckpoint",
