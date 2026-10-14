@@ -9,6 +9,7 @@
   "game-platform.force.start": "§aDas Spiel wurde vorzeitig gestartet.",
   "game-platform.starting": "§7Das Spiel beginnt in §a%s §7Sekunden",
   "game-platform.started": "§aDas Spiel beginnt jetzt!",
+  "game-platform.good-game": "§aGG-Bonus §f[ §a+ §e10 Coins§f, §b20 XP-Punkte §f]",
   "game-platform.auto-ending": "§7Das Spiel endet in §c%s §7Minuten!",
   "game-platform.auto-ending-seconds": "§7Das Spiel endet in §c%s §7Sekunden!",
   "game-platform.restarting": "§7Der Server startet in §c%s §7Sekunden neu!",
