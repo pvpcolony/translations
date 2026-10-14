@@ -15,6 +15,7 @@
   "game-platform.player.joined": "§a%s §7has §ajoined §7the game.",
   "game-platform.player.left": "§c%s §7has §cleft §7the game.",
   "game-platform.player.quit": "§c%s has been §celiminated.",
+  "game-platform.player.died": "§c%s has died.",
   "game-platform.player.killed": "§c%s §7was killed by §c%s",
   "game-platform.player.won": "§a%s §7has §awon §7the game!",
   "game-platform.lobby.item.quit.name": "Back to lobby",
