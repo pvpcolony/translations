@@ -22,7 +22,7 @@
   "game-platform.player.killed": "§c%s §7wurde von §c%s §7getötet.",
   "game-platform.player.won": "§a%s §7hat das Spiel §agewonnen!",
   "game-platform.lobby.item.quit.name": "Zurück zur Lobby",
-  "lobby.item.navigator.name": "Spielauswahl",
+  "lobby.item.navigator.name": "Spielmodus auswählen",
   "lobby.item.profile.name": "Dein Profil",
   "lobby.item.settings.name": "Einstellungen",
   "lobby.item.language.name": "Sprache",
