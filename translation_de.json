@@ -94,6 +94,7 @@
   "proxy.command.clan.member-left": "§c%s hat deinen Clan verlassen.",
   "proxy.command.clan.member-joined": "§a%s hat deinen Clan als Mitglied betreten.",
   "proxy.command.clan.kick.failure": "§cAls Clan-Mitglied kannst du keine Spieler rauswerfen.",
+  "proxy.command.clan.leave.failure": "§cDu kannst als Clan-Leiter deinen Clan nicht verlassen.",
   "proxy.command.clan.user.already-invited": "§cDu hast %s bereits in deinen Clan eingeladen.",
   "proxy.command.clan.user.invited": "§aDu hast eine Claneinladung an %s geschickt.",
   "proxy.command.clan.invite": "§aDu hast eine Claneinladung von %s für %s erhalten.",
