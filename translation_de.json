@@ -79,6 +79,7 @@
   "proxy.command.ping.yours": "§7Dein aktueller ping ist: §a%s ms",
   "proxy.command.ping.other": "§a%s §7aktueller ping ist: §a%s ms",
   "proxy.command.clan.already-in-clan": "§cDu bist bereits in einem Clan.",
+  "proxy.command.clan.already-in-clan-other": "§c%s ist bereits in einem Clan.",
   "proxy.command.clan.in-no-clan": "§cDu bist in keinem Clan.",
   "proxy.command.clan.name.taken": "§cDieser Clan-Name ist bereits vergeben.",
   "proxy.command.clan.tag.taken": "§cDieser Clan-Tag ist bereits vergeben.",
