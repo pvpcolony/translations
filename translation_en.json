@@ -79,4 +79,6 @@
   "jumpleague.countdown.go": "§aGo!",
   "proxy.command.ping.yours": "§7Your current ping is: §a%s ms",
   "proxy.command.ping.other": "§a%s §7current ping is: §a%s ms",
+  "proxy.command.clan.already.in-clan": "§cYou are already in a clan.",
+  "proxy.command.clan.already.in-clan": "§cThis clan name is already taken.",
 }
