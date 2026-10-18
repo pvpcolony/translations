@@ -139,4 +139,5 @@
   "proxy.command.friend.removed": "§cYou have removed %s from your friend list.",
   "proxy.command.friend.removed-other": "§c%s has removed you from their friend list.",
   "proxy.command.friend.no-requests": "§cYou don't have any pending requests.",
+  "proxy.command.friend.no-friends": "§cYou don't have any friends :c.",
 }
