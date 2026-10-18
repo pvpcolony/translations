@@ -133,4 +133,10 @@
   "proxy.command.friend.friends-since": "§7You are friends with %s since %s",
   "proxy.command.friend.add-self": "§cYou cannot sent a friend request to yourself.",
   "proxy.command.friend.no-request": "§cYou have no friend request from %s.",
+  "proxy.command.friend.request-denied": "§cYou have denied the friend request from %s.",
+  "proxy.command.friend.request-denied-other": "§c%s has denied your friend request.",
+  "proxy.command.friend.not-friends": "§cYou are not friends with %s.",
+  "proxy.command.friend.removed": "§cYou have removed %s from your friend list.",
+  "proxy.command.friend.removed-other": "§c%s has removed you from their friend list.",
+  "proxy.command.friend.no-requests": "§cYou don't have any pending requests.",
 }
