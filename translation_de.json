@@ -69,7 +69,7 @@
   "jumpleague.level.checkpoint": "§aCheckpoint",
   "jumpleague.match.end": "§7Deathmatch startet in §c%s",
   "jumpleague.level.finisher": "§a%s §7hat das §aZiel §7erreicht!",
-  "jumpleague.level.finisher.countdown": "§aAndere Spieler §7haben nun noch §a%s §7Minuten Zeit bis zum Deathmatch!",
+  "jumpleague.level.finisher.countdown": "§aAndere Spieler §7haben nun noch §a%s Zeit bis zum Deathmatch!",
   "jumpleague.deathmatch.countdown": "§7Das §cDeathmatch §7beginnt in §c%s!",
   "jumpleague.deathmatch.begin": "§aDas Deathmatch geht nun los! Der letzte Überlebende gewinnt!",
   "jumpleague.level.checkpoint": "§7Du hast den Checkpoint §e%s §7erreicht!",
