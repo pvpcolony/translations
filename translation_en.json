@@ -73,7 +73,7 @@
   "lobby.menu.statistics.item.kills": "§7Your kills: §a%s",
   "lobby.menu.statistics.item.deaths": "§7Your deaths: §c%s",
   "lobby.menu.statistics.item.wins": "§7Games won: §6%s",
-  "lobby.menu.profile.item.friends": "§7Your friends",
+  "lobby.menu.profile.item.friends": "Your friends",
   "lobby.menu.profile.item.friends.lore.1": "§7Here you'll find a overview of your friends.",
   "jumpleague.scoreboard.line.1": "%s more players needed",
   "jumpleague.scoreboard.line.1.ready": "%s players ready",
