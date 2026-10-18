@@ -5,7 +5,7 @@
   "common-platform.welcome.test": "Welcome on the server, %s",
   "common-platform.lobby.switched": "§aWe are trying to send you to §7%s...",
   "common-platform.lobby.none": "§cWe couldn't send you to an available server!",
-  "spigot-platform.tablist.header": "§ePVPCOLONY CLUB",
+  "spigot-platform.tablist.header": "§ePvPColony.Club",
   "spigot-platform.tablist.second": "§7The Competitive Network",
   "game-platform.waiting-for-players": "§7Atleast §c%s §7players are required to start the game...",
   "game-platform.force.start": "§aThe game has been forced to start.",
