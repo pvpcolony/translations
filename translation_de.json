@@ -79,6 +79,7 @@
   "proxy.command.joinme.invalid": "§cDu kannst auf der Lobby kein JoinMe ausführen!",
   "proxy.command.joinme.line.1": "§a%s §7will mit dir §e%s §7spielen!",
   "proxy.command.joinme.line.2": "§a(Klicke um %s beizutreten)!",
+  "proxy.command.joinme.it.self": "§7Dein JoinMe wurde an §a%s §7Spieler gesendet.",
   "proxy.command.ping.yours": "§7Dein aktueller ping ist: §a%s ms",
   "proxy.command.ping.other": "§a%s §7aktueller ping ist: §a%s ms",
   "proxy.command.clan.already-in-clan": "§cDu bist bereits in einem Clan.",
