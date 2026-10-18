@@ -77,7 +77,6 @@
   "proxy.command.lobby.switched": "§aWir senden dich in Kürze zu §7%s...",
   "proxy.command.lobby.none": "§cWir konnten dich mit keinem freien Server verbinden!",
   "proxy.command.joinme.invalid": "§cDu kannst auf der Lobby kein JoinMe ausführen!",
-  "proxy.command.joinme.invalid": "§cDu kannst auf der Lobby kein JoinMe ausführen!",
   "proxy.command.ping.yours": "§7Dein aktueller ping ist: §a%s ms",
   "proxy.command.ping.other": "§a%s §7aktueller ping ist: §a%s ms",
   "proxy.command.clan.already-in-clan": "§cDu bist bereits in einem Clan.",
