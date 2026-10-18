@@ -75,6 +75,7 @@
   "lobby.menu.statistics.item.wins": "§7Games won: §6%s",
   "lobby.menu.profile.item.friends": "Your friends",
   "lobby.menu.profile.item.friends.lore.1": "§7Here you'll find a overview of your friends.",
+  "lobby.menu.profile.item.friends.lore.2": "§eLeftclick §8▪ §7Show overview",
   "jumpleague.scoreboard.line.1": "%s more players needed",
   "jumpleague.scoreboard.line.1.ready": "%s players ready",
   "jumpleague.scoreboard.line.2": "Map",
