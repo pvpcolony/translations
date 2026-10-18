@@ -5,7 +5,7 @@
   "common-platform.welcome.test": "Wilkommen auf dem Server, %s",
   "common-platform.lobby.switched": "§aWir senden dich in Kürze zu §7%s...",
   "common-platform.lobby.none": "§cWir konnten dich mit keinem freien Server verbinden!",
-  "spigot-platform.tablist.header": "§ePVPCOLONY CLUB",
+  "spigot-platform.tablist.header": "§ePvPColony.Club",
   "spigot-platform.tablist.second": "§7Das Kompetetive Netzwerk",
   "game-platform.waiting-for-players": "§7Es werden mindestens §c%s §7Spieler zum Start benötigt...",
   "game-platform.force.start": "§aDas Spiel wurde vorzeitig gestartet.",
