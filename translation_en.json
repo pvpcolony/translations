@@ -78,6 +78,8 @@
   "proxy.command.lobby.switched": "§aWe are trying to send you to §7%s...",
   "proxy.command.lobby.none": "§cWe couldn't send you to an available server!",
   "proxy.command.joinme.invalid": "§cYou can't run a joinme on the lobby!",
+  "proxy.command.joinme.line.1": "§a%s §7wants you to play §e%s §7with him!",
+  "proxy.command.joinme.line.2": "§a(Click here to join %s)!",
   "proxy.command.ping.yours": "§7Your current ping is: §a%s ms",
   "proxy.command.ping.other": "§a%s §7current ping is: §a%s ms",
   "proxy.command.clan.already-in-clan": "§cYou are already in a clan.",
