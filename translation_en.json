@@ -9,7 +9,7 @@
   "game-platform.force.start": "§aThe game has been forced to start.",
   "game-platform.starting": "§7The game begins in §a%s §7seconds!",
   "game-platform.started": "§aThe game begins now!",
-  "game-platform.good-game": "§aGG-Bonus §7[ §a+ §e10 Coins§7, §b20 XP-Points §7]",
+  "game-platform.good-game": "§aGG-Bonus §7[ §a+ §e10 Points§7, §b20 XP-Points §7]",
   "game-platform.auto-ending": "§7The game ends in §c%s §7minutes!",
   "game-platform.auto-ending-seconds": "§7The game ends in §c%s §7seconds!",
   "game-platform.restarting": "§7The server restarts in §c%s §7seconds!",
