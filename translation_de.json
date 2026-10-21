@@ -152,6 +152,7 @@
   "proxy.login.friend-pending": "§7Du hast §e%s §7offene Freundschaftsanfragen.",
   "proxy.login.friend-online.notify": "§7Dein Freund §a%s §7ist jetzt §aonline.",
   "proxy.login.friend-offline.notify": "§7Dein Freund §c%s §7ist jetzt §coffline.",
+  "proxy.login-friends-online": "§7Es sind gerade §a%s §7deiner Freunde §aonline!",
   "bedwars.team.red.name": "§cRot",
   "bedwars.team.blue.name": "§bBlau",
   "bedwars.bed.break-own": "§cDu kannst dein eigenes Bett nicht abbauen!",
