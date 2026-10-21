@@ -3,7 +3,7 @@
   "common-platform.chat.cooldown": "§cWart a bissl, donn geht's wieda.",
   "common-platform.chat.player.offline": "§cDen Spüla find ma ned!",
   "common-platform.welcome.test": "Griaß di am Server, %s",
-  "spigot-platform.tablist.header": "§eePvPColony.Club",
+  "spigot-platform.tablist.header": "§ePvPColony.Club",
   "spigot-platform.tablist.second": "§7Des Wettkampf-Netzwerk",
   "game-platform.waiting-for-players": "§7Mindestens §c%s §7Spüla brauch ma, damit's losgeht...",
   "game-platform.force.start": "§aDes Spüi is mit Gwoit g'startet wuan.",
