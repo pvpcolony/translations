@@ -150,6 +150,8 @@
   "proxy.command.friend.no-requests": "§cDu hast keine offenen Anfragen.",
   "proxy.command.friend.no-friends": "§cDu hast noch keine Freunde :c",
   "proxy.login.friend-pending": "§7Du hast §e%s §7offene Freundschaftsanfragen.",
+  "proxy.login.friend-online.notify": "§aDein Freund %s ist jetzt online.",
+  "proxy.login.friend-offline.notify": "§cDein Freund %s ist jetzt offline.",
   "bedwars.team.red.name": "§cRot",
   "bedwars.team.blue.name": "§bBlau",
   "bedwars.bed.break-own": "§cDu kannst dein eigenes Bett nicht abbauen!",
