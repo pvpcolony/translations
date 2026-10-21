@@ -126,4 +126,6 @@
   "proxy.command.clan.joined": "§aDu hast den Clan %s betreten.",
   "proxy.command.clan.info.line.1": "§7Clan: §c%s §8┃ §e%s",
   "proxy.command.clan.info.line.2": "§7Erstellt am: §a%s",
+  "bedwars.team.red.name": "§cRot",
+  "bedwars.team.blue.name": "§bBlau",
 }
