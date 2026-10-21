@@ -151,4 +151,5 @@
   "bedwars.team.blue.name": "§bBlue",
   "bedwars.bed.break-own": "§cYou cannot break your own bed!",
   "bedwars.bed.break-enemy": "§a%s §7has broken the bed of §c%s!",
+  "bedwars.player.died": "§c%s has died!",
 }
