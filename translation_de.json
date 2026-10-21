@@ -128,4 +128,6 @@
   "proxy.command.clan.info.line.2": "§7Erstellt am: §a%s",
   "bedwars.team.red.name": "§cRot",
   "bedwars.team.blue.name": "§bBlau",
+  "bedwars.bed.break-own": "§cDu kannst dein eigenes Bett nicht abbauen!",
+  "bedwars.bed.break-enemy": "§a%s §7hat das Bett von §c%s §7abgebaut!",
 }
