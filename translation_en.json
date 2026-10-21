@@ -149,4 +149,6 @@
   "proxy.login.friend-pending": "§7You have §e%s §7incoming friend requests.",
   "bedwars.team.red.name": "§cRed",
   "bedwars.team.blue.name": "§bBlue",
+  "bedwars.bed.break-own": "§cYou cannot break your own bed",
+  "bedwars.bed.break-enemy": "§c%s §7has broken the bed of §c%s",
 }
