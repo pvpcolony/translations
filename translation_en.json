@@ -147,4 +147,6 @@
   "proxy.command.friend.no-requests": "§cYou don't have any pending requests.",
   "proxy.command.friend.no-friends": "§cYou don't have any friends :c",
   "proxy.login.friend-pending": "§7You have §e%s §7incoming friend requests.",
+  "bedwars.team.red.name": "§cRed",
+  "bedwars.team.red.name": "§bBlue",
 }
