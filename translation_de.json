@@ -160,6 +160,7 @@
   "proxy.command.friend.removed-other": "§c%s hat dich von seiner Freundesliste entfernt.",
   "proxy.command.friend.no-requests": "§cDu hast keine offenen Anfragen.",
   "proxy.command.friend.no-friends": "§cDu hast noch keine Freunde :c",
+  "proxy.command.friend.request-disabled": "§cDu kannst %s keine Anfrage schicken!",
   "proxy.login.friend-pending": "§7Du hast §e%s §7offene Freundschaftsanfragen.",
   "proxy.login.friend-online.notify": "§7Dein Freund §a%s §7ist jetzt §aonline.",
   "proxy.login.friend-offline.notify": "§7Dein Freund §c%s §7ist jetzt §coffline.",
