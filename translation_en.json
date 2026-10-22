@@ -145,6 +145,7 @@
   "proxy.command.clan.joined": "§aYou have joined the clan %s.",
   "proxy.command.clan.info.line.1": "§7Clan: §c%s §8┃ §e%s",
   "proxy.command.clan.info.line.2": "§7Created at: §a%s",
+  "proxy.command.clan.request-disabled": "§cYou cannot send a invite to %s!",
   "proxy.command.friend.already-friends": "§cYou are already friends with %s.",
   "proxy.command.friend.request": "§a%s sent you a friend request.",
   "proxy.command.friend.request-sent": "§aYou sent a friend request to %s.",
