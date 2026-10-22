@@ -161,6 +161,7 @@
   "proxy.command.friend.removed-other": "§c%s has removed you from their friend list.",
   "proxy.command.friend.no-requests": "§cYou don't have any pending requests.",
   "proxy.command.friend.no-friends": "§cYou don't have any friends :c",
+  "proxy.command.friend.request-disabled": "§cYou cannot send a friend request to %s!",
   "proxy.login.friend-pending": "§7You have §e%s §7incoming friend requests.",
   "proxy.login.friend-online.notify": "§7Your friend §a%s §7is now §aonline.",
   "proxy.login.friend-offline.notify": "§7Your friend §c%s §7is now §coffline.",
