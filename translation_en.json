@@ -15,6 +15,7 @@
   "spigot-platform.tablist.second": "§7The Competitive Network",
   "spigot-platform.chat-message.blocked": "§cYour chat message could not be sent.",
   "spigot-platform.chat-message.delay": "§cPlease wait %s before you write a message again.",
+  "spigot-platform.chat-message.team.notify": "§c%s §7sent a bad word §8(§c%s§8) §7on §c%s",
   "game-platform.waiting-for-players": "§7Atleast §c%s §7players are required to start the game...",
   "game-platform.force.start": "§aThe game has been forced to start.",
   "game-platform.starting": "§7The game begins in §a%s §7seconds!",
