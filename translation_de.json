@@ -6,6 +6,8 @@
   "spigot-platform.tablist.header": "§eePvPColony.Club",
   "spigot-platform.tablist.second": "§7Das kompetitive Netzwerk",
   "spigot-platform.chat-message.blocked": "§cDeine Nachricht wurde blockiert.",
+  "spigot-platform.chat-message.delay": "§cBitte warte %s bevor du eine weitere Nachricht schreibst.",
+  "spigot-platform.chat-message.team.notify": "§c%s wollte %s in den Chat schreiben.",
   "game-platform.waiting-for-players": "§7Mindestens §c%s §7Spieler werden benötigt, um das Spiel zu starten...",
   "game-platform.force.start": "§aDas Spiel wurde zum Start gezwungen.",
   "game-platform.starting": "§7Das Spiel beginnt in §a%s §7Sekunden!",
