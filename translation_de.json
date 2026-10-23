@@ -68,7 +68,7 @@
   "lobby.menu.navigator.item.jumpleague.lore.2": "§eLinksklick §8▪ §7Spiel auswählen",
   "lobby.menu.navigator.item.jumpleague.lore.3": "§eRechtsklick §8▪ §7Schnell beitreten",
   "lobby.menu.navigator.item.training.name": "§3Training",
-  "lobby.menu.navigator.item.training.lore.1": "§7Spielt gerade: §c%s",
+  "lobby.menu.navigator.item.training.lore.1": "§7Spielt gerade: §3%s",
   "lobby.menu.navigator.item.training.lore.2": "§eLinksklick §8▪ §7Spiel auswählen",
   "lobby.menu.navigator.item.training.lore.3": "§eRechtsklick §8▪ §7Schnell beitreten",
   "lobby.menu.services.none-avaialble": "§cKeine verfügbaren Server gefunden",
