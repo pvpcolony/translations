@@ -3,7 +3,7 @@
   "common-platform.chat.cooldown": "§cПодожди немного, прежде чем делать это снова.",
   "common-platform.chat.player.offline": "§cЭтот игрок не найден!",
   "common-platform.welcome.test": "Добро пожаловать на сервер, %s",
-  "spigot-platform.tablist.header": "§eePvPColony.Club",
+  "spigot-platform.tablist.header": "§ePvPColony.Club",
   "spigot-platform.tablist.second": "§7Соревновательная сеть",
   "game-platform.waiting-for-players": "§7Для начала игры нужно минимум §c%s §7игроков...",
   "game-platform.force.start": "§aИгра была принудительно запущена.",
