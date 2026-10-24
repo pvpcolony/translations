@@ -97,7 +97,7 @@
   "lobby.menu.profile.item.friends.friend.lore.1": "§7Friends since: §a%s",
   "lobby.menu.profile.item.friends.friend.offline": "§cOffline since %s",
   "lobby.menu.profile.item.friends.friend.online": "§aOnline §8► §7playing §e%s",
-  "lobby.menu.profile.item.friends.friend.manage": "§e §8▪ §cManage friend",
+  "lobby.menu.profile.item.friends.friend.manage": "§eLeftclick §8▪ §7Manage friend",
   "lobby.menu.profile.item.friends.manage.friend-remove": "§cRemove this friend",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.1": "§cAre u sure you want to remove %s?",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.2": "§eLeftclick §8▪ §cRemove friend",
