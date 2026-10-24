@@ -100,7 +100,7 @@
   "lobby.menu.profile.item.friends.friend.manage": "§eLeftclick §8▪ §7Manage friend",
   "lobby.menu.profile.item.friends.manage.friend-remove": "§cRemove this friend",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.1": "§cAre u sure you want to remove %s?",
-  "lobby.menu.profile.item.friends.manage.friend.remove.lore.2": "§eLeftclick §8▪ §cRemove friend",
+  "lobby.menu.profile.item.friends.manage.friend.remove.lore.2": "§eLeftclick §8▪ §7Remove friend",
   "jumpleague.scoreboard.line.1": "%s more players needed",
   "jumpleague.scoreboard.line.1.ready": "%s players ready",
   "jumpleague.scoreboard.line.2": "Map",
