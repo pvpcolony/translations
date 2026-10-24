@@ -96,6 +96,7 @@
   "lobby.menu.profile.item.friends.friend.lore.1": "§7Freunde seit: §a%s",
   "lobby.menu.profile.item.friends.friend.offline": "§cOffline seit %s",
   "lobby.menu.profile.item.friends.friend.online": "§aOnline §8► §7spielt §e%s",
+  "lobby.menu.profile.item.friends.friend.manage": "§eLinksklick §8▪ §7Freund verwalten",
   "jumpleague.scoreboard.line.1": "%s Spieler werden noch benötigt",
   "jumpleague.scoreboard.line.1.ready": "%s Spieler bereit",
   "jumpleague.scoreboard.line.2": "Karte",
