@@ -99,7 +99,7 @@
   "lobby.menu.profile.item.friends.friend.online": "§aOnline §8► §7playing §e%s",
   "lobby.menu.profile.item.friends.friend.manage": "§a► Leftclick to manage friend",
   "lobby.menu.profile.item.friends.manage.friend-remove": "§cRemove this friend",
-  "lobby.menu.profile.item.friends.manage.friend.remove.lore.1": "§cAre u sure you want to remove %s?",
+  "lobby.menu.profile.item.friends.manage.friend.remove.lore.1": "§7Are u sure you want to remove %s?",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.2": "§c► Leftclick to remove friend",
   "jumpleague.scoreboard.line.1": "%s more players needed",
   "jumpleague.scoreboard.line.1.ready": "%s players ready",
