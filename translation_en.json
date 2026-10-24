@@ -46,7 +46,7 @@
   "lobby.scoreboard.line.3": "Points",
   "lobby.scoreboard.line.4": "All",
   "lobby.menu.back": "§c« Back",
-  "lobby.menu.language.lore.1": "§eLeftclick §8▪ §7Change language",
+  "lobby.menu.language.lore.1": "§a► Leftclick to change language",
   "lobby.menu.rewards.daily-reward.name": "§eDaily Reward",
   "lobby.menu.rewards.daily-reward.lore.1": "§7Claim your daily rewards",
   "lobby.menu.rewards.daily-reward.lore.2": "§7[ §a+ §e200 Coins §7]",
