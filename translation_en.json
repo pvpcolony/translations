@@ -179,4 +179,5 @@
   "bedwars.bed.break-own": "§cYou cannot break your own bed!",
   "bedwars.bed.break-enemy": "§a%s §7has broken the bed of §c%s!",
   "bedwars.player.died": "§c%s has died!",
+  "training.scoreboard.line.1": "Trophies",
 }
