@@ -66,7 +66,7 @@
   "lobby.menu.navigator.item.spawn.name": "§eSpawnpoint",
   "lobby.menu.navigator.item.spawn.lore.1": "§7Players here: §e%s",
   "lobby.menu.navigator.item.spawn.teleport": "§aYou have been teleported to the spawn point.",
-  "lobby.menu.navigator.item.lore.teleport": "§eLeftclick §8▪ §7Teleport there",
+  "lobby.menu.navigator.item.lore.teleport": "§a► Leftclick to teleport",
   "lobby.menu.navigator.item.jumpleague.name": "§bJump League",
   "lobby.menu.navigator.item.jumpleague.lore.1": "§7Currently playing: §b%s",
   "lobby.menu.navigator.item.jumpleague.lore.2": "§a► Leftclick to select game",
