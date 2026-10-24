@@ -35,6 +35,7 @@
   "lobby.item.profile.name": "Dein Profil",
   "lobby.item.settings.name": "Deine Einstellungen",
   "lobby.item.language.name": "Sprache",
+  "lobby.item.hook.name": "Enterhaken",
   "lobby.item.interaction": "Rechtsklick",
   "lobby.command.language.changed": "§aDeine Sprache wurde auf §7%s §ageändert",
   "lobby.scoreboard.line.1": "Rang",
