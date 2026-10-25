@@ -13,7 +13,7 @@
   "common-platform.setting.clan-invites.lore.1": "§7Wer soll dir Claneinladungen schicken dürfen?",
   "spigot-platform.tablist.header": "§ePvPColony.Club",
   "spigot-platform.tablist.second": "§7Das kompetitive Netzwerk",
-  "spigot-platform.tablist.footer.server": "§7Du bist auf: §e%s",
+  "spigot-platform.tablist.footer.server": "§7Du befindest dich auf: §e%s",
   "spigot-platform.tablist.footer.online": "§7Spieler online: §e%s",
   "spigot-platform.chat-message.blocked": "§cDeine Nachricht wurde blockiert.",
   "spigot-platform.chat-message.delay": "§cBitte warte %s bevor du eine weitere Nachricht schreibst.",
