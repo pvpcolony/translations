@@ -179,4 +179,6 @@
   "bedwars.player.died": "§c%s ist gestorben!",
   "training.scoreboard.line.1": "Trophäen",
   "training.scoreboard.line.2": "Platz",
+  "training.menu.bedwars.join-game": "§a► Linksklicke zum Spiel beitreten",
+
 }
