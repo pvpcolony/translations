@@ -73,8 +73,7 @@
   "lobby.menu.navigator.item.jumpleague.lore.3": "§a► Rightclick to quick join",
   "lobby.menu.navigator.item.training.name": "§3Training",
   "lobby.menu.navigator.item.training.lore.1": "§7Currently playing: §3%s",
-  "lobby.menu.navigator.item.training.lore.2": "§a► Leftclick to select game",
-  "lobby.menu.navigator.item.training.lore.3": "§a► Rightclick to quick join",
+  "lobby.menu.navigator.item.training.lore.2": "§a► Leftclick to join game",
   "lobby.menu.services.none-avaialble": "§cNo available servers found",
   "lobby.menu.services.service.in-game": "§cIn game",
   "lobby.menu.services.service.waiting": "§cWaiting for players",
@@ -181,4 +180,5 @@
   "bedwars.player.died": "§c%s has died!",
   "training.scoreboard.line.1": "Trophies",
   "training.scoreboard.line.2": "Ranking",
+  "training.menu.bedwars.join-game": "§a► Leftclick to join game",
 }
