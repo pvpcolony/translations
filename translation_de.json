@@ -174,6 +174,8 @@
   "proxy.login-friends-online": "§7Es sind gerade §a%s §7deiner Freunde §aonline!",
   "bedwars.team.red.name": "§cRot",
   "bedwars.team.blue.name": "§bBlau",
+  "bedwars.team.green.name": "§aGrün",
+  "bedwars.team.yellow.name": "§eGelb",
   "bedwars.bed.break-own": "§cDu kannst dein eigenes Bett nicht abbauen!",
   "bedwars.bed.break-enemy": "§a%s §7hat das Bett von §c%s §7abgebaut!",
   "bedwars.bed.break-title.line.1": "§4Bett abgebaut!",
