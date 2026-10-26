@@ -175,6 +175,8 @@
   "proxy.login-friends-online": "§7There are §a%s §7of your friends currently §aonline!",
   "bedwars.team.red.name": "§cRed",
   "bedwars.team.blue.name": "§bBlue",
+  "bedwars.team.green.name": "§aGreen",
+  "bedwars.team.yellow.name": "§eYellow",
   "bedwars.bed.break-own": "§cYou cannot break your own bed!",
   "bedwars.bed.break-enemy": "§a%s §7has broken the bed of §c%s!",
   "bedwars.bed.break-title.line.1": "§4Bed broken!",
