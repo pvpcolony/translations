@@ -181,6 +181,7 @@
   "bedwars.bed.break-title.line.1": "§4Bett abgebaut!",
   "bedwars.bed.break-title.line.2": "§c%s hat dein Bett abgebaut",
   "bedwars.player.died": "§c%s ist gestorben!",
+  "bedwars.player.died-other": "§c%s wurde von %s getötet!",
   "training.scoreboard.line.1": "Trophäen",
   "training.scoreboard.line.2": "Platz",
   "training.menu.bedwars.join-game": "§a► Linksklicke zum Spiel beitreten",
