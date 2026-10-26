@@ -182,6 +182,7 @@
   "bedwars.bed.break-title.line.1": "§4Bed broken!",
   "bedwars.bed.break-title.line.2": "§c%s has broken your bed",
   "bedwars.player.died": "§c%s has died!",
+  "bedwars.player.died-other": "§c%s was killed by %s!",
   "training.scoreboard.line.1": "Trophies",
   "training.scoreboard.line.2": "Ranking",
   "training.menu.bedwars.join-game": "§a► Leftclick to join game",
