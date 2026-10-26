@@ -176,6 +176,8 @@
   "bedwars.team.blue.name": "§bBlau",
   "bedwars.bed.break-own": "§cDu kannst dein eigenes Bett nicht abbauen!",
   "bedwars.bed.break-enemy": "§a%s §7hat das Bett von §c%s §7abgebaut!",
+  "bedwars.bed.break-title.line.1": "§4Bett abgebaut!",
+  "bedwars.bed.break-title.line.2": "§c%s hat dein Bett abgebaut",
   "bedwars.player.died": "§c%s ist gestorben!",
   "training.scoreboard.line.1": "Trophäen",
   "training.scoreboard.line.2": "Platz",
