@@ -177,6 +177,8 @@
   "bedwars.team.blue.name": "§bBlue",
   "bedwars.bed.break-own": "§cYou cannot break your own bed!",
   "bedwars.bed.break-enemy": "§a%s §7has broken the bed of §c%s!",
+  "bedwars.bed.break-title.line.1": "§4Bed broken!",
+  "bedwars.bed.break-title.line.2": "§c%s has broken your bed",
   "bedwars.player.died": "§c%s has died!",
   "training.scoreboard.line.1": "Trophies",
   "training.scoreboard.line.2": "Ranking",
