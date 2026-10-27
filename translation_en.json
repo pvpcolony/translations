@@ -187,4 +187,8 @@
   "training.scoreboard.line.2": "Ranking",
   "training.menu.bedwars.join-game": "§a► Leftclick to join game",
   "training.menu.bedwars.category-select": "§a► Leftclick to select size",
+  "knockffa.quit.item.name": "Back to training lobby",
+  "knockffa.stick.item.name": "Stick",
+  "knockffa.scoreboard.line.1": "dummy",
+  "knockffa.scoreboard.line.2": "dummy2"
 }
