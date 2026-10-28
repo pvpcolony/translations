@@ -190,5 +190,6 @@
   "knockffa.quit.item.name": "Back to training lobby",
   "knockffa.stick.item.name": "Stick",
   "knockffa.scoreboard.line.1": "Points",
-  "knockffa.scoreboard.line.2": "Enemy"
+  "knockffa.scoreboard.line.2": "Trophies",
+  "knockffa.scoreboard.line.3": "Enemy"
 }
