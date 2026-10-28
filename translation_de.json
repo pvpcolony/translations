@@ -187,6 +187,6 @@
   "training.menu.bedwars.join-game": "§a► Linksklicke zum Spiel beitreten",
   "knockffa.quit.item.name": "Zurück zur Trainings Lobby",
   "knockffa.stick.item.name": "Knüppel",
-  "knockffa.scoreboard.line.1": "dummy",
-  "knockffa.scoreboard.line.2": "dummy2"
+  "knockffa.scoreboard.line.1": "Punkte",
+  "knockffa.scoreboard.line.2": "Gegner"
 }
