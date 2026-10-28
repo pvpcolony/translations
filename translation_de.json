@@ -192,5 +192,6 @@
   "knockffa.scoreboard.line.2": "Trophäen",
   "knockffa.scoreboard.line.3": "Gegner",
   "knockffa.kill.rewards": "§aKill §7[ §a+ §61 Trophäe§7, §e5 Punkte §7]",
-  "knockffa.death.rewards": "§cTod §7[ §c- §61 Trophäe §7]"
+  "knockffa.death.rewards": "§cTod §7[ §c- §61 Trophäe §7]",
+  "knockffa.map.switched": "§7Die Map wurde zu §6%s gewechselt!"
 }
