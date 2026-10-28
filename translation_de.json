@@ -71,7 +71,7 @@
   "lobby.menu.navigator.item.jumpleague.lore.2": "§a► Linksklicke zum Spiel auswählen",
   "lobby.menu.navigator.item.jumpleague.lore.3": "§a► Rechtsklicke zum schnellen beitreten",
   "lobby.menu.navigator.item.training.name": "§3Training",
-  "lobby.menu.navigator.item.training.lore.1": "§7Spieler spielen: §3%s",
+  "lobby.menu.navigator.item.training.lore.1": "§7Spieler spielen: §6%s",
   "lobby.menu.navigator.item.training.lore.2": "§a► Linksklicke zum Spiel beitreten",
   "lobby.menu.services.none-avaialble": "§cKeine verfügbaren Server gefunden",
   "lobby.menu.services.service.in-game": "§cIm Spiel",
