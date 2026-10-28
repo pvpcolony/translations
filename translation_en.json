@@ -189,6 +189,6 @@
   "training.menu.bedwars.category-select": "§a► Leftclick to select size",
   "knockffa.quit.item.name": "Back to training lobby",
   "knockffa.stick.item.name": "Stick",
-  "knockffa.scoreboard.line.1": "dummy",
-  "knockffa.scoreboard.line.2": "dummy2"
+  "knockffa.scoreboard.line.1": "Points",
+  "knockffa.scoreboard.line.2": "Enemy"
 }
