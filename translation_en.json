@@ -191,5 +191,7 @@
   "knockffa.stick.item.name": "Stick",
   "knockffa.scoreboard.line.1": "Points",
   "knockffa.scoreboard.line.2": "Trophies",
-  "knockffa.scoreboard.line.3": "Enemy"
+  "knockffa.scoreboard.line.3": "Enemy",
+  "knockffa.kill.rewards": "§aKill §7[ §a+ §61 Trophies§7, §e5 Points §7]",
+  "knockffa.death.rewards": "§cDeath §7[ §c- §61 Trophies §7]"
 }
