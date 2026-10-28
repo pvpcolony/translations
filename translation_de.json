@@ -189,5 +189,7 @@
   "knockffa.stick.item.name": "Stock",
   "knockffa.scoreboard.line.1": "Punkte",
   "knockffa.scoreboard.line.2": "Trophäen",
-  "knockffa.scoreboard.line.3": "Gegner"
+  "knockffa.scoreboard.line.3": "Gegner",
+  "knockffa.kill.rewards": "§aKill §7[ §a+ §61 Trophäe§7, §e5 Punkte §7]",
+  "knockffa.death.rewards": "§cTod §7[ §c- §61 Trophäe §7]"
 }
