@@ -194,5 +194,7 @@
   "knockffa.scoreboard.line.3": "§7Map switch: §6§o%s",
   "knockffa.kill.rewards": "§aKill §7[ §a+ §61 Trophies§7, §e5 Points §7]",
   "knockffa.death.rewards": "§cDeath §7[ §c- §61 Trophies §7]",
-  "knockffa.map.switched": "§7The map was switched to §6%s"
+  "knockffa.map.switched": "§7The map was switched to §6%s",
+  "pillars.player.died": "§c%s has died.",
+  "pillars.player.killed": "§c%s §7was killed by §c%s",
 }
