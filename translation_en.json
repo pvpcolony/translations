@@ -33,7 +33,6 @@
   "game-platform.player.killed": "§c%s §7was killed by §c%s",
   "game-platform.player.won": "§a%s §7has §awon §7the game!",
   "game-platform.lobby.item.quit.name": "Back to lobby",
-  "game-platform.lobby.item.quit.name": "Back to lobby",
   "game.jumpleague.description.1": "Complete 10 jump and run levels while collecting items",
   "game.jumpleague.description.2": "As soon as a player reaches the finish line other",
   "game.jumpleague.description.3": "players have 1 minutes left until the deatchmatch.",
