@@ -97,6 +97,7 @@
   "lobby.menu.statistics.item.kills": "§7Deine Kills: §a%s",
   "lobby.menu.statistics.item.deaths": "§7Deine Tode: §c%s",
   "lobby.menu.statistics.item.wins": "§7Gewonnene Spiele: §6%s",
+  "lobby.menu.profile.item.friend.requests": "§aFreundschaftsanfragen",
   "lobby.menu.profile.item.friends": "Deine Freunde",
   "lobby.menu.profile.item.friends.lore.1": "§7Hier findest du eine Übersicht deiner Freunde.",
   "lobby.menu.profile.item.friends.lore.2": "§a► Linksklicke zum anzeigen",
