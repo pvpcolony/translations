@@ -108,6 +108,7 @@
   "lobby.menu.profile.item.friends.manage.friend-remove": "§cRemove this friend",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.1": "§7Are u sure you want to remove %s?",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.2": "§c► Leftclick to remove friend",
+  "lobby.menu.profile.item.friends.requests.accept": "§a► Leftclick to accept request",
   "jumpleague.scoreboard.line.1": "%s more players needed",
   "jumpleague.scoreboard.line.1.ready": "%s players ready",
   "jumpleague.scoreboard.line.2": "Map",
