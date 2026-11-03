@@ -108,6 +108,7 @@
   "lobby.menu.profile.item.friends.manage.friend-remove": "§cDiesen Freund entfernen",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.1": "§7Bist du dir sicher, dass du %s entfernen willst?",
   "lobby.menu.profile.item.friends.manage.friend.remove.lore.2": "§c► Linksklicke zum entfernen",
+  "lobby.menu.profile.item.friends.requests.accept": "§a► Linksklicke zum annehmen",
   "jumpleague.scoreboard.line.1": "%s Spieler werden noch benötigt",
   "jumpleague.scoreboard.line.1.ready": "%s Spieler bereit",
   "jumpleague.scoreboard.line.2": "Karte",
