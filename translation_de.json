@@ -206,4 +206,6 @@
   "knockffa.map.switched": "§7Die Map wurde zu §6%s §7gewechselt!",
   "pillars.player.died": "§c%s ist gestorben.",
   "pillars.player.killed": "§c%s §7wurde von §c%s §7getötet.",
+  "pillars.border.shrink": "§cDie Border verkleinert sich jetzt um %s Blöcke!",
+
 }
