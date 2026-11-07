@@ -70,6 +70,7 @@
   "lobby.menu.rewards.vip-reward.unavailable": "§cYou already claimed your vip rewards!",
   "lobby.menu.rewards.vip-reward.taken": "§aYou have claimed your vip rewards!",
   "lobby.menu.rewards.vip-reward.time-remaining": "§cAvailable again in %s",
+  "lobby.menu.rewards.vip-reward.no-permission": "§cYou cannot claim the vip reward!",
   "lobby.menu.navigator.item.spawn.name": "§6Spawnpoint",
   "lobby.menu.navigator.item.spawn.lore.1": "§7Players here: §6%s",
   "lobby.menu.navigator.item.spawn.teleport": "§aYou have been teleported to the spawn point.",
