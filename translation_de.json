@@ -70,6 +70,7 @@
   "lobby.menu.rewards.vip-reward.unavailable": "§cDu hast deine VIP-Belohnung bereits abgeholt!",
   "lobby.menu.rewards.vip-reward.taken": "§aDu hast deine VIP-Belohnung abgeholt!",
   "lobby.menu.rewards.vip-reward.time-remaining": "§cWieder verfügbar in %s",
+  "lobby.menu.rewards.vip-reward.no-permission": "§cDu kannst die VIP Belohnung nicht abholen!",
   "lobby.menu.navigator.item.spawn.name": "§6Spawnpunkt",
   "lobby.menu.navigator.item.spawn.lore.1": "§7Spieler hier: §6%s",
   "lobby.menu.navigator.item.spawn.teleport": "§aDu wurdest zum Spawnpunkt teleportiert.",
