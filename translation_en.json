@@ -211,4 +211,5 @@
   "pillars.player.died": "§c%s has died.",
   "pillars.player.killed": "§c%s §7was killed by §c%s",
   "pillars.border.shrink": "§cThe border shrinks %s blocks now!",
+  "bridge.item.settings.name": "Adjust your settings"
 }
