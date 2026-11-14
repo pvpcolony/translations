@@ -224,6 +224,6 @@
   "bridge.scoreboard.line.1": "Points",
   "bridge.scoreboard.line.2": "Time",
   "bridge.scoreboard.line.3": "Top 3",
-  "bridge.run.failed": "§cYou've failed your run! Achieved in: %s",
-  "bridge.run.succeed": "§aYou've completed your run! Achieved in: %s",
+  "bridge.run.failed": "§cYou've failed your run! Reached in: %s",
+  "bridge.run.succeed": "§aYou've completed your run! Reached in: %s",
 }
