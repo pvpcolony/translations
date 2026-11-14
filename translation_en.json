@@ -211,5 +211,13 @@
   "pillars.player.died": "§c%s has died.",
   "pillars.player.killed": "§c%s §7was killed by §c%s",
   "pillars.border.shrink": "§cThe border shrinks %s blocks now!",
-  "bridge.item.settings.name": "Adjust your settings"
+  "bridge.item.settings.name": "Adjust your settings",
+  "bridge.adjusting.distance.failed", "§cThe distance cannot be less than 3 or greater than 50.",
+  "bridge.adjusting.height.failed", "§cThe height cannot be less than 1 or greater than 50.",
+  "bridge.adjusting.height.changed", "§aYour bridging height was changed to %s",
+  "bridge.adjusting.distance.changed", "§aYour bridging distance was changed to %s",
+  "bridge.menu.adjusting.left", "§a► Leftclick to increment by 3",
+  "bridge.menu.adjusting.right", "§a► Rightclick to decrement by 3",
+  "bridge.menu.preset.distance", "§7Distance",
+  "bridge.menu.preset.height", "§7Height",
 }
