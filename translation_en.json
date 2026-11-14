@@ -221,4 +221,7 @@
   "bridge.menu.preset": "§a► Leftclick to change preset",
   "bridge.menu.preset.distance": "§7Distance",
   "bridge.menu.preset.height": "§7Height",
+  "bridge.scoreboard.line.1": "Points",
+  "bridge.scoreboard.line.2": "Time",
+  "bridge.scoreboard.line.3": "Top 3",
 }
