@@ -223,7 +223,6 @@
   "bridge.menu.preset.height": "§7Height",
   "bridge.scoreboard.line.1": "Points",
   "bridge.scoreboard.line.2": "Time",
-  "bridge.scoreboard.line.3": "Top 3",
   "bridge.scoreboard.no-top": "Custom has no top list",
   "bridge.run.failed": "§cYou've failed your run! Completed in: %s",
   "bridge.run.succeed": "§aYou've completed your run! Completed in: %s",
