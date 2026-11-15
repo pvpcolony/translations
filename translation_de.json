@@ -220,7 +220,6 @@
   "bridge.menu.preset.height": "§7Höhe",
   "bridge.scoreboard.line.1": "Punkte",
   "bridge.scoreboard.line.2": "Zeit",
-  "bridge.scoreboard.line.3": "Top 3",
   "bridge.scoreboard.no-top": "Custom hat keine Top-Liste",
   "bridge.run.failed": "§cDein Anlauf ist fehlgeschlagen! Erreicht in: %s",
   "bridge.run.succeed": "§aDu hast deinen Anlauf geschafft! Erreicht in: %s",
