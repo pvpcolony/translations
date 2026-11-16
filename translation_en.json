@@ -85,6 +85,8 @@
   "lobby.menu.navigator.item.training.name": "§3Training",
   "lobby.menu.navigator.item.training.lore.1": "§7Currently playing: §6%s",
   "lobby.menu.navigator.item.training.lore.2": "§a► Leftclick to join game",
+  "lobby.menu.navigator.item.pillars.lore.1": "§7Currently playing: §c%s",
+  "lobby.menu.navigator.item.bridge.lore.1": "§7Currently playing: §a%s",
   "lobby.menu.services.none-avaialble": "§cNo available servers found",
   "lobby.menu.services.service.in-game": "§cIn game",
   "lobby.menu.services.service.waiting": "§cWaiting for players",
