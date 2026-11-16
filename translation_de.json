@@ -85,7 +85,7 @@
   "lobby.menu.navigator.item.training.name": "§3Training",
   "lobby.menu.navigator.item.training.lore.1": "§7Spieler spielen: §6%s",
   "lobby.menu.navigator.item.training.lore.2": "§a► Linksklicke zum Spiel beitreten",
-  "lobby.menu.navigator.item.pillars.lore.1": "§7Spieler spieleng: §c%s",
+  "lobby.menu.navigator.item.pillars.lore.1": "§7Spieler spielen: §c%s",
   "lobby.menu.navigator.item.bridge.lore.1": "§7Spieler spielen: §a%s",
   "lobby.menu.services.none-avaialble": "§cKeine verfügbaren Server gefunden",
   "lobby.menu.services.service.in-game": "§cIm Spiel",
