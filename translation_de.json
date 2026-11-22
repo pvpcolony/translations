@@ -192,7 +192,7 @@
   "proxy.login.friend-online.notify": "§7Dein Freund §a%s §7ist jetzt §aonline.",
   "proxy.login.friend-offline.notify": "§7Dein Freund §c%s §7ist jetzt §coffline.",
   "proxy.login-friends-online": "§7Es sind gerade §a%s §7deiner Freunde §aonline!",
-  "proxy.login.server.switch": "%s spielt nun %s",
+  "proxy.login.server.switch": "§6%s §7spielt nun §6%s",
   "bedwars.team.red.name": "§cRot",
   "bedwars.team.blue.name": "§bBlau",
   "bedwars.team.green.name": "§aGrün",
