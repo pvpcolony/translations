@@ -214,7 +214,7 @@
   "proxy.login.friend-offline.notify": "§7Dein Freund §c%s §7ist jetzt §coffline.",
   "proxy.login-friends-online": "§7Es sind gerade §a%s §7deiner Freunde §aonline!",
   "proxy.login.server.switch": "§6%s §7spielt nun §6%s",
-  "proxy.autobroadcast.message.1": "§7Sieh dir Spielerstatistiken mit /stats <playername> an",
+  "proxy.autobroadcast.message.1": "§7Sieh dir Spielerstatistiken mit /stats <spieler> an",
   "proxy.autobroadcast.message.2": "§7Komm auf unseren Discord, um nichts zu verpassen §b/discord",
   "proxy.autobroadcast.message.3": "§7Der neue §c§lPillars §7Modus ist jetzt verfügbar!",
   "bedwars.team.red.name": "§cRot",
